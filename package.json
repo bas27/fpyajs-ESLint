@@ -1,0 +1,23 @@
+{
+  "name": "fpyajs-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bas27/fpyajs-ESLint.git"
+  },
+  "author": "Alexander B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bas27/fpyajs-ESLint/issues"
+  },
+  "homepage": "https://github.com/bas27/fpyajs-ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.35.0"
+  }
+}
